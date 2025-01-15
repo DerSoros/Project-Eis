@@ -1,0 +1,147 @@
+
+l
+java:S1604ª"(Make this anonymous inner class a lambda(§Ùùğ8‡»ğüÅ2J$eb2235bc-9234-4512-8f23-058dc3b6b07e
+‹
+java:S2184“"BCast one of the operands of this division operation to a "double".(¿ºÂ‡ûÿÿÿÿ8éÜÒüÅ2J$66421896-679e-468d-9c22-12c87b89fe82
+™
+java:S1104"VMake currentMap a static final constant or non-public and provide accessors if needed.(’‘¬ÿ8éÜÒüÅ2J$5a35675c-eb3f-49ba-ac5c-ba69554659fa
+™
+java:S1104"QMake tileM a static final constant or non-public and provide accessors if needed.(·²×¬úÿÿÿÿ8éÜÒüÅ2J$02037add-4ca4-4c05-acf0-293131880a60
+˜
+java:S1104"PMake keyH a static final constant or non-public and provide accessors if needed.(–º´Çşÿÿÿÿ8éÜÒüÅ2J$6dd895b8-4b3c-4920-ac08-1d0ce3a12426
+œ
+java:S1104""TMake cChecker a static final constant or non-public and provide accessors if needed.(ğãÇ™ùÿÿÿÿ8éÜÒüÅ2J$2f7247a1-3adc-4a22-a87a-e8307bfcff0b
+›
+java:S1104#"SMake aSetter a static final constant or non-public and provide accessors if needed.(¼ƒŸşøÿÿÿÿ8éÜÒüÅ2J$f1e0d043-e19b-447f-927e-27173f9b5b1f
+–
+java:S1104$"NMake ui a static final constant or non-public and provide accessors if needed.(££öÄøÿÿÿÿ8éÜÒüÅ2J$6eeb96bd-69f1-4fbc-b8ab-e9a8c38f8360
+—
+java:S1104%"TMake eHandler a static final constant or non-public and provide accessors if needed.(ŠÍÏÔ8éÜÒüÅ2J$8d1f453d-5dff-41dc-8557-889cfaaf205e
+š
+java:S1104-"RMake player a static final constant or non-public and provide accessors if needed.(²­Âåÿÿÿÿÿ8éÜÒüÅ2J$e3090797-f376-4542-9672-5a545890bddf
+‘
+java:S1104."OMake obj a static final constant or non-public and provide accessors if needed.(¸éÎ8éÜÒüÅ2J$a4dfd074-3211-40b2-9d32-9c10501cd06f
+’
+java:S1104/"OMake npc a static final constant or non-public and provide accessors if needed.(ÅÔÍ«8éÜÒüÅ2J$7cfef9cc-0bdf-425f-a35e-a971c7d190b4
+–
+java:S11040"SMake monster a static final constant or non-public and provide accessors if needed.(ÇüŒò8éÜÒüÅ2J$799b43d1-7156-4daf-acf5-6e20770031fa
+™
+java:S11041"QMake iTile a static final constant or non-public and provide accessors if needed.(ÀÔÅúÿÿÿÿ8éÜÒüÅ2J$ae522ad8-1e8c-4a9b-9b1d-1bec1eb2af5c
+
+java:S11042"ZMake projectileList a static final constant or non-public and provide accessors if needed.(˜¾êÚ8éÜÒüÅ2J$61064e02-4e2a-4b44-8452-9171fa44dcf3
+ 
+java:S11043"XMake particleList a static final constant or non-public and provide accessors if needed.(–‘ï¢ÿÿÿÿÿ8éÜÒüÅ2J$60f176ce-4371-4380-9376-58cf0274e9de
+˜
+java:S11047"UMake gameState a static final constant or non-public and provide accessors if needed.(ƒ¯‹ä8éÜÒüÅ2J$fa8ecc51-34a8-4ed9-af4c-728024a951eb
+±
+java:S13192"nThe type of "projectileList" should be an interface such as "List" rather than the implementation "ArrayList".(˜¾êÚ8êÜÒüÅ2J$974a730e-11d9-45be-89b2-03ca7138277f
+´
+java:S13193"lThe type of "particleList" should be an interface such as "List" rather than the implementation "ArrayList".(–‘ï¢ÿÿÿÿÿ8êÜÒüÅ2J$275f9884-6039-4f3b-8c5d-214954aec144
+¢
+java:S1488¯"^Immediately return this expression instead of assigning it to the temporary variable "result".(º„´8Š»ğüÅ2J$5de6fdd2-9887-46c5-969a-a24269731305
+	java:S116*"NRename this field "FPS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷³¼º8íÜÒüÅ2J$76057884-8751-464e-a08d-ee5aed360051
+t
+java:S2387$","ui" is the name of a field in "JComponent".(££öÄøÿÿÿÿ8ïÜÒüÅ2J$36ad0322-4b62-4b74-9bad-acb9ed34f9a2
+d
+java:S1170"!Make this final field static too.(ÕÚ±–8ïÜÒüÅ2J$9ee0ae18-3b50-46ea-afdc-96981e1eca7e
+i
+java:S1170"!Make this final field static too.(èÒ½Ùúÿÿÿÿ8ïÜÒüÅ2J$7281ff68-f380-4ba0-a6fb-cf22f2757e37
+d
+java:S1170"!Make this final field static too.(ÑÎàÿ8ïÜÒüÅ2J$082b4ca0-7c62-4bc9-af39-e62b00d1b0dd
+d
+java:S1170"!Make this final field static too.(Í“©Ï8ïÜÒüÅ2J$09d81230-8a6a-4574-ba16-ca72fc4eb4d7
+c
+java:S1170"!Make this final field static too.(¹¾Š}8ïÜÒüÅ2J$6e3cda41-9d81-47c7-9e38-024e875985d2
+d
+java:S1170"!Make this final field static too.(•÷É8ïÜÒüÅ2J$b560a8e0-67d2-4cbd-975c-ef33386892e5
+d
+java:S1170"!Make this final field static too.(—²ñı8ïÜÒüÅ2J$39e0360e-d340-4702-8e71-8af3231896f9
+i
+java:S11708"!Make this final field static too.(¡Åıòıÿÿÿÿ8ïÜÒüÅ2J$b6462048-fbcf-4c60-b9c2-1c1d91d55f04
+i
+java:S11709"!Make this final field static too.(¢¶µ±ÿÿÿÿÿ8ïÜÒüÅ2J$595d413d-0e1e-411c-86ab-4976e3a813a5
+c
+java:S1170:"!Make this final field static too.(ºáÇw8ïÜÒüÅ2J$d7b3a125-6acc-40a3-9ae7-819eef1864a6
+d
+java:S1170;"!Make this final field static too.(ê À—8ïÜÒüÅ2J$b628ecb1-393f-4a01-9e32-4e06fe17be23
+i
+java:S1170<"!Make this final field static too.(¹¢ç«üÿÿÿÿ8ïÜÒüÅ2J$f541120e-1eca-41e9-a63f-277f91437923
+i
+java:S1170="!Make this final field static too.(»‘’ºúÿÿÿÿ8ïÜÒüÅ2J$bb15b8db-c494-45d2-9de0-55f6bb32af7e
+i
+java:S1170>"!Make this final field static too.(¥œšêıÿÿÿÿ8ïÜÒüÅ2J$6c6cf234-163d-4bc6-8446-0776c4908f94
+d
+java:S1170?"!Make this final field static too.(úàÓú8ïÜÒüÅ2J$9e0cf964-b98f-483f-bc12-47150bb14d43
+i
+java:S1170@"!Make this final field static too.(«å™”ûÿÿÿÿ8ïÜÒüÅ2J$39bf0b19-996a-4cf7-9d4c-a130f0253c2c
+o
+java:S1948"'Make "tileM" transient or serializable.(·²×¬úÿÿÿÿ8ğÜÒüÅ2J$2a3bda1c-8d8e-48b2-a931-0772936ec068
+n
+java:S1948"&Make "keyH" transient or serializable.(–º´Çşÿÿÿÿ8ğÜÒüÅ2J$e605eb21-75d0-4d7a-bda0-8329930625a6
+o
+java:S1948 "'Make "music" transient or serializable.(ßğ€Æûÿÿÿÿ8ñÜÒüÅ2J$3dd45378-dad7-44d2-bbf3-522d9c2e60fd
+g
+java:S1948!"$Make "se" transient or serializable.(÷¼½ 8ñÜÒüÅ2J$1fbca1b2-0006-4b3a-b4b7-e35560fb6416
+r
+java:S1948""*Make "cChecker" transient or serializable.(ğãÇ™ùÿÿÿÿ8ñÜÒüÅ2J$0f33cb38-a350-46ad-bf18-5da8d98cfac6
+q
+java:S1948#")Make "aSetter" transient or serializable.(¼ƒŸşøÿÿÿÿ8ñÜÒüÅ2J$39ebc3cb-9530-4556-9baa-74d86f6927dc
+l
+java:S1948$"$Make "ui" transient or serializable.(££öÄøÿÿÿÿ8ñÜÒüÅ2J$7e570076-66dc-42a4-9e6e-45085f5bdee5
+m
+java:S1948%"*Make "eHandler" transient or serializable.(ŠÍÏÔ8ñÜÒüÅ2J$563013bf-5d5c-4a2d-a2a9-e1fd96d1632e
+p
+java:S1948&"(Make "config" transient or serializable.(È³Òöşÿÿÿÿ8ñÜÒüÅ2J$5fd8c30a-4e83-48b8-acd6-108c3216bc68
+o
+java:S1948'",Make "gameThread" transient or serializable.(¡ç®ş8ñÜÒüÅ2J$173c8e76-968c-4206-ba10-8e44b709b2c4
+p
+java:S1948-"(Make "player" transient or serializable.(²­Âåÿÿÿÿÿ8ñÜÒüÅ2J$473ed87c-fb10-4479-bf5d-a48ed321bcd8
+g
+java:S1948."%Make "obj" transient or serializable.(¸éÎ8ñÜÒüÅ2J$9efc095f-8545-4451-b57f-6dbf9f9ecede
+h
+java:S1948/"%Make "npc" transient or serializable.(ÅÔÍ«8ñÜÒüÅ2J$02e51b57-7bb9-4433-85e5-448b47b4cf84
+l
+java:S19480")Make "monster" transient or serializable.(ÇüŒò8ñÜÒüÅ2J$8550a1d5-1809-4d5a-8daa-e6b581db8cda
+o
+java:S19481"'Make "iTile" transient or serializable.(ÀÔÅúÿÿÿÿ8ñÜÒüÅ2J$4a26d284-9b9e-4212-941c-04ea1cb6e51c
+s
+java:S19482"0Make "projectileList" transient or serializable.(˜¾êÚ8ñÜÒüÅ2J$3d36f686-84a1-4dc0-b25f-3dae9540304c
+v
+java:S19483".Make "particleList" transient or serializable.(–‘ï¢ÿÿÿÿÿ8ñÜÒüÅ2J$69751bab-5951-49ba-a363-3c4df3724fe2
+o
+java:S19484",Make "entityList" transient or serializable.(ÿË¬8ñÜÒüÅ2J$14f5134d-e424-41cb-96c4-60d79e826a5f
+n
+java:S1197.",Move the array designators [][] to the type.(¸éÎ8÷ÜÒüÅ2J$d61f3c0c-6725-4415-9864-338ef6ebfb78
+o
+java:S1197/",Move the array designators [][] to the type.(ÅÔÍ«8÷ÜÒüÅ2J$accf2a16-9019-4b75-bca2-77e85bc98f2d
+o
+java:S11970",Move the array designators [][] to the type.(ÇüŒò8÷ÜÒüÅ2J$8e3589d8-587b-4800-b7be-e98f50886ded
+t
+java:S11971",Move the array designators [][] to the type.(ÀÔÅúÿÿÿÿ8÷ÜÒüÅ2J$4bc38cd9-d604-4446-a7ca-b925be00db43
+ƒ	java:S125R"<This block of commented-out lines of code should be removed.(ù†Ç­ıÿÿÿÿ8ùÜÒüÅ2J$ab69d37f-b7b2-4b0d-b381-cb0d49141c30
+~	java:S125s"<This block of commented-out lines of code should be removed.(“–ış8ıÜÒüÅ2J$5c0b6d51-fd84-4599-aded-468edd42c0ed
+w
+java:S1481˜".Remove this unused "drawCount" local variable.(ÒÜÉ†ùÿÿÿÿ8ıÜÒüÅ2J$74cf4e96-461d-44e6-8e86-69ab344833fd
+„	java:S125ª"<This block of commented-out lines of code should be removed.(­Ù÷Œøÿÿÿÿ8ıÜÒüÅ2J$8d41076c-2929-43e0-9a1b-f568c911e5f2
+p
+java:S1125À"'Remove the unnecessary boolean literal.(ıŞ·úÿÿÿÿ8şÜÒüÅ2J$50196fab-0f70-4ece-a2ae-a14a15dc7af9
+p
+java:S1125À"'Remove the unnecessary boolean literal.(ıŞ·úÿÿÿÿ8ÿÜÒüÅ2J$c3e765ad-c3ba-4372-8a38-a9cb08a38f95
+p
+java:S1125Ä"'Remove the unnecessary boolean literal.(ÒÃııÿÿÿÿ8ÿÜÒüÅ2J$8e4b302f-cecf-4f87-903b-4cc39c73ea2f
+p
+java:S1125Î"'Remove the unnecessary boolean literal.(ö¨›‘ıÿÿÿÿ8ÿÜÒüÅ2J$428488a4-9a1c-45c3-9dbd-6c81c3cbd524
+p
+java:S1125Ò"'Remove the unnecessary boolean literal.(¤õÑ€ùÿÿÿÿ8›»ğüÅ2J$f54d0213-7278-4eb4-b026-b8af3cdd8c95
+k
+java:S1125Û"'Remove the unnecessary boolean literal.(ÛÈ‹8›»ğüÅ2J$68f5d012-a31e-48df-85cb-6feaf3e08c67
+p
+java:S1125ß"'Remove the unnecessary boolean literal.(âÕµåüÿÿÿÿ8›»ğüÅ2J$c3fdd348-1a82-478c-b17b-4f5d259e9fc2
+l	java:S108ê")Either remove or fill this block of code.(ÏÕıÀ8œ»ğüÅ2J$3bbcfd91-2bac-4fa3-a37d-3854f0c5c615
+~
+java:S1161ğ":Add the "@Override" annotation above this method signature(³ıŸê8»ğüÅ2J$7916db3b-f7e5-43dd-aa32-7fdf7f88496f
+k
+java:S1125À"'Remove the unnecessary boolean literal.(¤Ç¥”8¡»ğüÅ2J$e07b1a08-a3d3-4221-96b9-481bc850e4f3
+„	java:S125Õ"<This block of commented-out lines of code should be removed.(ÁÅÀşÿÿÿÿ8£»ğüÅ2J$61585bd4-77f9-4758-8327-15f9f42916f3
+Š
+java:S6541ğ"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 72 to 64, Complexity from 17 to 14, Nesting Level from 3 to 2, Number of Variables from 18 to 6.(³ıŸê8£»ğüÅ2J$6a82460a-2d09-4e54-a842-111f6e1c558a

@@ -1,0 +1,22 @@
+
+ 
+java:S1104
+"XMake destructible a static final constant or non-public and provide accessors if needed.(´ì½Ÿøÿÿÿÿ8Ë²«ÿ1J$065f4186-8f57-4459-857c-69eadfb60931
+¨
+java:S1488"eImmediately return this expression instead of assigning it to the temporary variable "isCorrectItem".(³â…Ï8Ë²«ÿ1J$f3140b8a-d7db-4fa7-9e7d-dad0ce414b0d
+¤
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "tile".(§áùûÿÿÿÿ8Ë²«ÿ1J$2155b825-a377-40f5-995f-b497e2467a35
+k
+java:S2387	"("gp" is the name of a field in "Entity".(ğû˜ƒ8·Ä«ÿ1J$877afd21-e0d4-453d-91f5-5f4101217a97
+Ä
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(˜¥Şé8·Ä«ÿ1J$c538c01d-33aa-4aaa-83f5-cea43427e75b
+v
+java:S1172"3Remove these unused method parameters "col", "row".(ü¢Ô8¸Ä«ÿ1J$aad0961a-f256-4ca4-9410-d1e16895422e
+p
+java:S1172"-Remove this unused method parameter "entity".(ñè¿º8¹Ä«ÿ1J$67a8650e-513d-4fa0-a4f2-5ca67b59db17
+}
+java:S1161":Add the "@Override" annotation above this method signature(Ö×õÄ8¹Ä«ÿ1J$bee18241-be53-4efa-a213-14cdee1b527e
+o
+java:S1125"'Remove the unnecessary boolean literal.(˜ößÿÿÿÿÿ8¹Ä«ÿ1J$521b8728-01fa-4366-8695-146b5c0f2981
+}
+java:S1161%":Add the "@Override" annotation above this method signature(‡å¿Ô8¹Ä«ÿ1J$cbfcd5ee-69eb-4c75-b87c-8272c38795a2

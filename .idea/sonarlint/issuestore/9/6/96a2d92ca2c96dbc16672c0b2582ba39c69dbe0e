@@ -1,0 +1,64 @@
+
+˜
+java:S1104	"UMake upPressed a static final constant or non-public and provide accessors if needed.(œ¢¦Ü8€ˆ¶óÅ2J$f1aed4a5-3b0a-4bd6-9d1e-b63d0170cde7
+š
+java:S1104	"WMake downPressed a static final constant or non-public and provide accessors if needed.(œ¢¦Ü8€ˆ¶óÅ2J$b2a02102-1e6b-457e-b23f-689f15ed78f9
+š
+java:S1104	"WMake leftPressed a static final constant or non-public and provide accessors if needed.(œ¢¦Ü8€ˆ¶óÅ2J$67888917-da20-4859-86dc-51c588080c81
+›
+java:S1104	"XMake rightPressed a static final constant or non-public and provide accessors if needed.(œ¢¦Ü8€ˆ¶óÅ2J$67772cce-1533-4644-be16-54418bc93352
+›
+java:S1104	"XMake enterPressed a static final constant or non-public and provide accessors if needed.(œ¢¦Ü8€ˆ¶óÅ2J$63c0c100-2383-44fe-a556-51d169c25d0e
+
+java:S1104	"ZMake shotKeyPressed a static final constant or non-public and provide accessors if needed.(œ¢¦Ü8ˆ¶óÅ2J$1604426d-3ff9-4c2a-92c2-855f6e68f22b
+s
+java:S1066Á"/Merge this if statement with the enclosing one.(È•í­8ˆ¶óÅ2J$7358b506-af2b-4c83-95aa-3523215440a0
+s
+java:S1066Î"/Merge this if statement with the enclosing one.(È•í­8ˆ¶óÅ2J$8dbdd27c-a56e-40c3-bad8-e49e8fb6a366
+x
+java:S1066 "/Merge this if statement with the enclosing one.(•ĞÊùÿÿÿÿ8ˆ¶óÅ2J$d39ce1a1-6032-4431-802d-e25df3911ff6
+x
+java:S1066¦"/Merge this if statement with the enclosing one.(© ä‰ûÿÿÿÿ8ˆ¶óÅ2J$55256697-dc83-4cbe-bebc-3e29cfcbf7c3
+x
+java:S1066¬"/Merge this if statement with the enclosing one.(ÃÅùŞùÿÿÿÿ8ˆ¶óÅ2J$fba1041f-0419-4a5f-9a2a-df408c7a4672
+x
+java:S1066²"/Merge this if statement with the enclosing one.(î×ìÍùÿÿÿÿ8ˆ¶óÅ2J$b977d427-da2f-4d9f-b88f-3d126c968d62
+M
+java:S1066¼"/Merge this if statement with the enclosing one.(ºŸÑŒ8—ä˜ıÅ2
+M
+java:S1066Â"/Merge this if statement with the enclosing one.(í†ß¬8—ä˜ıÅ2
+R
+java:S1066È"/Merge this if statement with the enclosing one.(¢Ï—®ûÿÿÿÿ8—ä˜ıÅ2
+R
+java:S1066Î"/Merge this if statement with the enclosing one.(ã¸à´üÿÿÿÿ8—ä˜ıÅ2
+Ä
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(÷—8ˆˆ¶óÅ2J$2fd80d87-8f62-483d-a5ca-e85ba6b3abec
+‹
+java:S1659	"HDeclare "downPressed" and all following declarations on a separate line.(œ¢¦Ü8Šˆ¶óÅ2J$b84e9161-7500-441c-a467-172db41a004a
+ƒ	java:S125N"<This block of commented-out lines of code should be removed.(¼›Õæùÿÿÿÿ8ˆ¶óÅ2J$b0b7f5d1-6480-4697-9184-ee750c5721d8
+p	java:S108P")Either remove or fill this block of code.(ºöùÔûÿÿÿÿ8ˆ¶óÅ2J$473f10dd-30c6-445e-bf1f-e8174797e857
+”
+java:S1301‚"KReplace this "switch" statement by "if" statements to increase readability.(’Ù²Öÿÿÿÿÿ8‘ˆ¶óÅ2J$cf1e8837-83c1-4018-ad4f-43378301331a
+j	java:S131‚""Add a default case to this switch.(’Ù²Öÿÿÿÿÿ8‘ˆ¶óÅ2J$1251e6c7-bda1-4d0c-b0fa-76478d2ac9d0
+”
+java:S1301­"KReplace this "switch" statement by "if" statements to increase readability.(×Ğùúÿÿÿÿ8“ˆ¶óÅ2J$ddda424d-8488-4913-b05f-37dfdda97a45
+j	java:S131­""Add a default case to this switch.(×Ğùúÿÿÿÿ8“ˆ¶óÅ2J$e12eb272-9e4a-4b75-ae43-200e0b520b51
+„	java:S125´"<This block of commented-out lines of code should be removed.(çÀüÿÿÿÿ8“ˆ¶óÅ2J$f63a4ff3-e385-43c1-80ba-e2dde90b0b76
+„	java:S125»"<This block of commented-out lines of code should be removed.(çÀüÿÿÿÿ8“ˆ¶óÅ2J$0682844b-5b8f-468d-ad24-bf328ccc57aa
+„	java:S125Å"<This block of commented-out lines of code should be removed.(çÀüÿÿÿÿ8”ˆ¶óÅ2J$d252f787-3e88-460e-aa0e-348dfd251577
+„	java:S125É"<This block of commented-out lines of code should be removed.(çÀüÿÿÿÿ8”ˆ¶óÅ2J$8e12df02-df18-41d7-b789-f4566c4b481a
+„	java:S125Ò"<This block of commented-out lines of code should be removed.(çÀüÿÿÿÿ8•ˆ¶óÅ2J$f2a156d1-83c8-4315-966e-00ec9c6c55c0
+„	java:S125Ö"<This block of commented-out lines of code should be removed.(çÀüÿÿÿÿ8•ˆ¶óÅ2J$e96cce31-d391-46bb-849b-367f63fd971b
+„	java:S125ã"<This block of commented-out lines of code should be removed.(çÀüÿÿÿÿ8–ˆ¶óÅ2J$c8c1227d-79c7-4d24-b61b-f78945b6c3ab
+„	java:S125ê"<This block of commented-out lines of code should be removed.(çÀüÿÿÿÿ8–ˆ¶óÅ2J$4640f344-507f-4516-b45e-6e0f603bfeec
+„	java:S125ğ"<This block of commented-out lines of code should be removed.(¼›Õæùÿÿÿÿ8–ˆ¶óÅ2J$fa7db69c-4540-47fa-b1f5-94501159685f
+„	java:S125…"<This block of commented-out lines of code should be removed.(çÀüÿÿÿÿ8˜ˆ¶óÅ2J$a923ee10-a8fb-462f-b074-6d70eb15c511
+„	java:S125Œ"<This block of commented-out lines of code should be removed.(çÀüÿÿÿÿ8˜ˆ¶óÅ2J$acff95d4-9469-4214-afea-24fcdec0a948
+„	java:S125¢"<This block of commented-out lines of code should be removed.(çÀüÿÿÿÿ8™ˆ¶óÅ2J$f0b7c441-1b2e-40cd-ba18-cb4ed66a6b97
+„	java:S125¨"<This block of commented-out lines of code should be removed.(çÀüÿÿÿÿ8™ˆ¶óÅ2J$07c41a92-72b8-4fdd-b294-9acf51422fd7
+„	java:S125®"<This block of commented-out lines of code should be removed.(çÀüÿÿÿÿ8™ˆ¶óÅ2J$ea25b250-f1e0-49b7-81e1-e06f3733e7b8
+„	java:S125´"<This block of commented-out lines of code should be removed.(çÀüÿÿÿÿ8™ˆ¶óÅ2J$ea456fed-2289-4210-86b1-1a6fbcb7fd61
+^	java:S125¾"<This block of commented-out lines of code should be removed.(çÀüÿÿÿÿ8¥ä˜ıÅ2
+^	java:S125Ä"<This block of commented-out lines of code should be removed.(çÀüÿÿÿÿ8¥ä˜ıÅ2
+^	java:S125Ê"<This block of commented-out lines of code should be removed.(çÀüÿÿÿÿ8¥ä˜ıÅ2
+^	java:S125Ğ"<This block of commented-out lines of code should be removed.(çÀüÿÿÿÿ8¥ä˜ıÅ2

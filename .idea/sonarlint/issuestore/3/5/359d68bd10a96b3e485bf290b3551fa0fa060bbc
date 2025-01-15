@@ -1,0 +1,70 @@
+
+
+java:S1104"UMake messageOn a static final constant or non-public and provide accessors if needed.(ıÄéšÿÿÿÿÿ8åà£Û€2J$0b2185ff-9fd3-4e46-9bf3-dd0e174bfa77
+ 
+java:S1104"XMake gameFinished a static final constant or non-public and provide accessors if needed.(È†ÿ‡úÿÿÿÿ8æà£Û€2J$63dfde86-0563-4a97-9d0d-38234fb6e474
+£
+java:S1104"[Make currentDialogue a static final constant or non-public and provide accessors if needed.(ŸĞööøÿÿÿÿ8æà£Û€2J$67d10d32-4e37-4719-ab68-33dc451a186c
+™
+java:S1104"VMake commandNum a static final constant or non-public and provide accessors if needed.(Æ¨Ä’8æà£Û€2J$27340b6d-5593-4a89-8f77-34376ac7bd8e
+Ÿ
+java:S1104"\Make titleScreenState a static final constant or non-public and provide accessors if needed.(ãØû€8æà£Û€2J$448a4289-7b96-4555-acbc-a9ae40510724
+›
+java:S1104"YMake playerSlotCol a static final constant or non-public and provide accessors if needed.(Õ¯ı]8æà£Û€2J$724e5b77-18ef-45bf-9a7f-d4393400431d
+¡
+java:S1104"YMake playerSlotRow a static final constant or non-public and provide accessors if needed.(Êø»¨øÿÿÿÿ8æà£Û€2J$5b0f575e-5b38-4f91-9acc-99a8e1537cb0
+™
+java:S1104"VMake npcSlotCol a static final constant or non-public and provide accessors if needed.(±áõº8æà£Û€2J$5072530c-ae04-4717-aecb-528463a4849b
+
+java:S1104"VMake npcSlotRow a static final constant or non-public and provide accessors if needed.(ò£şÛşÿÿÿÿ8æà£Û€2J$41f19702-eb66-4349-88cd-1111fd4d8302
+‘
+java:S1104 "OMake npc a static final constant or non-public and provide accessors if needed.(Ó¥È=8æà£Û€2J$81b36c58-19e3-4a8e-8d2a-86b98838c34f
+ª
+java:S1488ä"aImmediately return this expression instead of assigning it to the temporary variable "itemIndex".(„ş°Ğüÿÿÿÿ8ˆ÷êıÅ2J$a34f7838-60eb-4974-b64a-00cc70488a2d
+¢
+java:S1488õ"YImmediately return this expression instead of assigning it to the temporary variable "x".(¨âÛËùÿÿÿÿ8‰÷êıÅ2J$15187150-826b-4acc-9d11-36de2e45ee60
+
+java:S1488ú"YImmediately return this expression instead of assigning it to the temporary variable "x".(£¼·†8‰÷êıÅ2J$8c94f4e3-fc03-46b9-a84c-1db6fe6f6540
+—	java:S116"URename this field "heart_full" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø¥ÊÉ8÷à£Û€2J$08c24d37-ef65-48e7-82c1-fe0553b1e321
+—	java:S116"URename this field "heart_half" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø¥ÊÉ8øà£Û€2J$2e65ae74-96dd-44f2-a136-a688aa2b3f1c
+˜	java:S116"VRename this field "heart_blank" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø¥ÊÉ8ùà£Û€2J$d26eeef9-7816-45a1-99cf-8073ece7b63c
+™	java:S116"WRename this field "crystal_full" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø¥ÊÉ8úà£Û€2J$bec0a46c-04d6-4c9d-8e87-a6e94f340eee
+š	java:S116"XRename this field "crystal_blank" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø¥ÊÉ8úà£Û€2J$f6f25754-2be4-4280-a751-14354aeb7329
+Š
+java:S1659"GDeclare "heart_half" and all following declarations on a separate line.(ø¥ÊÉ8şà£Û€2J$c24da2fa-9a7b-4c92-9e06-e21eaa9f17ee
+‡
+java:S2147+"DCombine this catch with the one at line 41, which has the same body.(ï­£Ä8„á£Û€2J$6420bd51-e664-409a-b483-997797342f32
+„
+java:S1117±";Rename "counter" which hides the field declared at line 31.(Èêö¥şÿÿÿÿ8‘á£Û€2J$9aa246ce-1c8b-4116-8e41-1c473086033e
+|
+java:S1854¨"9Remove this useless assignment to local variable "textY".(åŒ 8›á£Û€2J$bb27f576-8ea3-46a7-bcfe-2ebdf4498cdc
+k
+java:S1125¦"'Remove the unnecessary boolean literal.(û„¬Ü8 ÷êıÅ2J$9b3f384f-7b67-414c-b1c3-747ee158278e
+e	java:S131€""Add a default case to this switch.(¾“ÆÇ8£÷êıÅ2J$1c686cb7-e295-4e77-a993-7a73b6db7612
+k
+java:S1125¨"'Remove the unnecessary boolean literal.(Çµä™8¤÷êıÅ2J$7b1f75fd-0524-4207-ba47-fc6180a64c03
+k
+java:S1125³"'Remove the unnecessary boolean literal.(Çµä™8¤÷êıÅ2J$73dc4c8c-9b06-49a6-ae9c-30b319aeedce
+k
+java:S1125¾"'Remove the unnecessary boolean literal.(Çµä™8¤÷êıÅ2J$233352fb-65e9-44eb-9057-2bb58ae2bd33
+‚
+java:S1854ò"9Remove this useless assignment to local variable "textY".(ĞˆÌ—ıÿÿÿÿ8¥÷êıÅ2J$e5149ac1-17e4-465c-911e-4effa947bf94
+}
+java:S1854é"9Remove this useless assignment to local variable "textY".(ÁŞ´ë8¥÷êıÅ2J$505884b7-5035-4750-9fe9-84df257246d4
+k
+java:S1125ú"'Remove the unnecessary boolean literal.(Çµä™8§÷êıÅ2J$1410acf8-4e4b-4dad-a6f7-391b433e6141
+k
+java:S1125“"'Remove the unnecessary boolean literal.(Çµä™8¨÷êıÅ2J$e544b381-30f0-424b-9265-a32379eb942a
+k
+java:S1125Ÿ"'Remove the unnecessary boolean literal.(Çµä™8¨÷êıÅ2J$21615c33-3183-4da2-aa8d-3698a1c56e04
+e	java:S131º""Add a default case to this switch.(¾“ÆÇ8©÷êıÅ2J$6417bf24-4021-4e1f-83a6-1afaaa667074
+k
+java:S1125Ó"'Remove the unnecessary boolean literal.(Çµä™8ª÷êıÅ2J$bbdd04f2-84f7-4d14-bb5b-4fb17c5de26a
+k
+java:S1125Û"'Remove the unnecessary boolean literal.(Çµä™8ª÷êıÅ2J$ab9c9c7e-bd0e-4db2-af70-a89c21bfbf17
+k
+java:S1125ã"'Remove the unnecessary boolean literal.(Çµä™8ª÷êıÅ2J$5e391f11-6c62-4178-a8db-244e645e945c
+k
+java:S1125”"'Remove the unnecessary boolean literal.(Çµä™8¬÷êıÅ2J$0225a2ad-2b7e-4bf8-b3bc-a09d5e0d78aa
+k
+java:S1125Ó"'Remove the unnecessary boolean literal.(Çµä™8µ÷êıÅ2J$ef834f1b-3799-470d-b445-529c82490f95

@@ -1,0 +1,98 @@
+
+q
+java:S1121_".Extract the assignment out of this expression.(­ï‡„8ÓÃ¯ÈÆ2J$ccf672a8-db3c-49ca-8979-8e7dc180a95c
+v
+java:S1121c".Extract the assignment out of this expression.(ê†‡˜úÿÿÿÿ8ÓÃ¯ÈÆ2J$4b34c8b9-0dbd-4635-ab76-f3b691329965
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ª¯Õ¹øÿÿÿÿ8ÓÃ¯ÈÆ2J$6e463efb-9b09-46a6-986e-f2fc6a5ff02b
+
+java:S1104"ZMake attackCanceled a static final constant or non-public and provide accessors if needed.(Õ¶8ÔÃ¯ÈÆ2J$27fe9ad5-0cf5-4f02-94da-12895b37b923
+s
+java:S1066î"/Merge this if statement with the enclosing one.(£¯€×8ÔÃ¯ÈÆ2J$0c3149b7-7724-4904-9e9d-44de45a985c0
+x
+java:S1066ú"/Merge this if statement with the enclosing one.(» şüûÿÿÿÿ8ÔÃ¯ÈÆ2J$44a6a35c-8fc0-4f75-8b45-f03e5586117b
+s
+java:S1066‹"/Merge this if statement with the enclosing one.(ôÀÑ8ÔÃ¯ÈÆ2J$c5668642-2fa1-4f1d-b11a-4ef7dc503b7c
+ƒ	java:S1256"<This block of commented-out lines of code should be removed.(©Ëı›ùÿÿÿÿ8ßÃ¯ÈÆ2J$3c218570-71b2-4145-bffe-5db74c6f9eda
+~	java:S125?"<This block of commented-out lines of code should be removed.(¦ßîğ8ßÃ¯ÈÆ2J$b6260dc1-6892-4962-ba71-d70945ca01aa
+ƒ	java:S125z"<This block of commented-out lines of code should be removed.(Ö’Øôıÿÿÿÿ8ê¾ºÈÆ2J$d188b43a-2174-4a3f-b132-2a1781a3f0f7
+ƒ	java:S125~"<This block of commented-out lines of code should be removed.(Ïøñğøÿÿÿÿ8³õ¿ÈÆ2J$c545f946-d1dd-4ee4-aef9-0a1c74b730da
+	java:S125‚"<This block of commented-out lines of code should be removed.(è¼ë¦8¡šÀÈÆ2J$590e6e96-db27-4d0a-b0a2-7e4c28e51a15
+„	java:S125†"<This block of commented-out lines of code should be removed.(ÌÏù ûÿÿÿÿ8°¸ÂÈÆ2J$20b0ccda-440c-4584-9083-41d1066a938a
+‚
+java:S1854¹">Remove this useless assignment to local variable "iTileIndex".(ËÈ¡Ç8äÃ¯ÈÆ2J$70d033a0-b4fb-4b8a-9032-376474f28f12
+~
+java:S1161–":Add the "@Override" annotation above this method signature(Ö×õÄ8åÃ¯ÈÆ2J$c2834efe-bc5b-4c27-92c9-669285211a4a
+p
+java:S1125˜"'Remove the unnecessary boolean literal.(œŠšóüÿÿÿÿ8åÃ¯ÈÆ2J$48117a33-3cba-44da-ad9f-2434e22fe8cd
+k
+java:S1125›"'Remove the unnecessary boolean literal.(¾½½8åÃ¯ÈÆ2J$9efd060e-2076-4443-bf52-65d45c386c74
+k
+java:S1125›"'Remove the unnecessary boolean literal.(¾½½8åÃ¯ÈÆ2J$2e5682d5-0f4f-4a3b-a2c5-983d01b03ec0
+p
+java:S1125œ"'Remove the unnecessary boolean literal.(Öüåüÿÿÿÿ8åÃ¯ÈÆ2J$6748d62f-01c5-4475-82c2-88713960366a
+p
+java:S1125œ"'Remove the unnecessary boolean literal.(Öüåüÿÿÿÿ8åÃ¯ÈÆ2J$000b5f36-da53-49b7-ba80-56f1abdb1b57
+p
+java:S1125œ"'Remove the unnecessary boolean literal.(Öüåüÿÿÿÿ8åÃ¯ÈÆ2J$9a2a6ec9-5f5e-478b-b478-4b84ad3f3268
+s
+java:S1481¹"/Remove this unused "iTileIndex" local variable.(ËÈ¡Ç8æÃ¯ÈÆ2J$54c28e04-6b7c-4cd1-b208-7652a9afd483
+k
+java:S1125À"'Remove the unnecessary boolean literal.(ÀÌÊê8æÃ¯ÈÆ2J$ec922f3e-ed70-4a61-b442-d0efc4e2678b
+k
+java:S1125À"'Remove the unnecessary boolean literal.(ÀÌÊê8æÃ¯ÈÆ2J$1344d8c7-4235-4c4c-8269-82e3f71dccca
+j	java:S131Â""Add a default case to this switch.(Æóõµıÿÿÿÿ8æÃ¯ÈÆ2J$ee0ad1e7-17b8-4138-94aa-1e70a3ebe892
+p
+java:S1125Ë"'Remove the unnecessary boolean literal.(ÄÀ¾¿øÿÿÿÿ8æÃ¯ÈÆ2J$eda692d8-b410-482c-93b6-4dd28c7ed401
+p
+java:S1125Ë"'Remove the unnecessary boolean literal.(ÄÀ¾¿øÿÿÿÿ8æÃ¯ÈÆ2J$6bfc13ed-230c-46b3-b73e-a2882be2485e
+	java:S125Ì"<This block of commented-out lines of code should be removed.(§Æ¿ú8æÃ¯ÈÆ2J$c5ff8b43-0edd-4df4-b446-0d0eb8b29f12
+p
+java:S1125ë"'Remove the unnecessary boolean literal.(°²ì€ûÿÿÿÿ8çÃ¯ÈÆ2J$343f959f-23c9-4301-b184-b9a1c25c5511
+p
+java:S1125ë"'Remove the unnecessary boolean literal.(°²ì€ûÿÿÿÿ8çÃ¯ÈÆ2J$64f4d8a7-182a-42f2-b527-552710abc247
+p
+java:S1125ì"'Remove the unnecessary boolean literal.(¯£ì·ûÿÿÿÿ8çÃ¯ÈÆ2J$1f0b0d17-b8fb-47b2-8c99-1b008f8746b0
+~	java:S125ú"<This block of commented-out lines of code should be removed.(ôÆ“8çÃ¯ÈÆ2J$c89eabcd-06ae-4d1b-85ca-ec06aac6a507
+p
+java:S1125ş"'Remove the unnecessary boolean literal.(˜ößÿÿÿÿÿ8çÃ¯ÈÆ2J$47ca1f6b-1dad-40ff-828e-bb8bc46f77e0
+„	java:S125•"<This block of commented-out lines of code should be removed.(£ÂÀ±üÿÿÿÿ8çÃ¯ÈÆ2J$5dd10281-dd34-4882-acf3-fea8ab761e38
+j	java:S131ª""Add a default case to this switch.(Æóõµıÿÿÿÿ8èÃ¯ÈÆ2J$41e407d9-2211-49f0-96a2-14a162a89ea8
+„	java:S125İ"<This block of commented-out lines of code should be removed.(¬ûµ™ûÿÿÿÿ8êÃ¯ÈÆ2J$ebbc77c9-4831-48ae-8d81-b2581957009c
+k
+java:S1125í"'Remove the unnecessary boolean literal.(Çµä™8êÃ¯ÈÆ2J$1d6e491a-3bff-4d74-a151-829758d733a6
+p
+java:S1125ú"'Remove the unnecessary boolean literal.(» şüûÿÿÿÿ8êÃ¯ÈÆ2J$bff1fa78-f1d8-4aaa-90d4-a9946150645e
+p
+java:S1125ú"'Remove the unnecessary boolean literal.(» şüûÿÿÿÿ8êÃ¯ÈÆ2J$91d7dab5-977b-43db-9b46-ab692f175842
+	java:S125û"<This block of commented-out lines of code should be removed.(à¶÷Á8ëÃ¯ÈÆ2J$a5bfe1eb-c07d-4a33-9905-dcd11f330da8
+k
+java:S1125‹"'Remove the unnecessary boolean literal.(ôÀÑ8ëÃ¯ÈÆ2J$efcc96c0-ebba-48da-b357-d381b009c874
+„	java:S125"<This block of commented-out lines of code should be removed.(·ß§Ÿşÿÿÿÿ8ëÃ¯ÈÆ2J$b79e6aa8-b625-4908-b6af-f47e96bcfeaf
+p
+java:S1125¨"'Remove the unnecessary boolean literal.(•Ášçÿÿÿÿÿ8îÃ¯ÈÆ2J$382527c1-7ad9-4ccf-a408-c30a0f0aa6cb
+p
+java:S1125©"'Remove the unnecessary boolean literal.(Œ¢Ÿüÿÿÿÿ8îÃ¯ÈÆ2J$81e0aae5-f75d-40fd-b2e2-d22a192666e5
+p
+java:S1125©"'Remove the unnecessary boolean literal.(Œ¢Ÿüÿÿÿÿ8îÃ¯ÈÆ2J$d01335e6-09da-403a-935d-cd8d0d773a30
+~
+java:S1161ë":Add the "@Override" annotation above this method signature(‡å¿Ô8òÃ¯ÈÆ2J$12da3e1f-5f79-4cfe-9970-c678ce1bb52b
+j	java:S131ó""Add a default case to this switch.(Æóõµıÿÿÿÿ8óÃ¯ÈÆ2J$1562ac78-bd66-4cd1-8f55-fea7d70109e9
+p
+java:S1125ö"'Remove the unnecessary boolean literal.(ÿÎÒûÿÿÿÿ8óÃ¯ÈÆ2J$a416b473-0ead-4459-90b0-75dabd4ac940
+p
+java:S1125ı"'Remove the unnecessary boolean literal.(œŠšóüÿÿÿÿ8óÃ¯ÈÆ2J$f520b466-5aaf-4641-8186-a94c64df28e4
+p
+java:S1125†"'Remove the unnecessary boolean literal.(ÿÎÒûÿÿÿÿ8ôÃ¯ÈÆ2J$1281af93-3425-4cba-bd06-e49360ce2f24
+p
+java:S1125Œ"'Remove the unnecessary boolean literal.(œŠšóüÿÿÿÿ8ôÃ¯ÈÆ2J$ab36f517-85c6-420f-9c7d-438b03fff861
+p
+java:S1125”"'Remove the unnecessary boolean literal.(ÿÎÒûÿÿÿÿ8ôÃ¯ÈÆ2J$eeb1fe8a-6ea1-429e-8a81-c191d7c7a577
+p
+java:S1125š"'Remove the unnecessary boolean literal.(œŠšóüÿÿÿÿ8ôÃ¯ÈÆ2J$1902b2cb-7c99-4a28-805b-91231ccecd38
+p
+java:S1125¤"'Remove the unnecessary boolean literal.(ÿÎÒûÿÿÿÿ8ôÃ¯ÈÆ2J$38c6bc83-9fb4-4fdb-9521-57d67eebe285
+p
+java:S1125ª"'Remove the unnecessary boolean literal.(œŠšóüÿÿÿÿ8ôÃ¯ÈÆ2J$c6741cae-7405-43a5-9b02-5bba421df14c
+p
+java:S1125³"'Remove the unnecessary boolean literal.(˜ößÿÿÿÿÿ8ôÃ¯ÈÆ2J$14634d17-df8b-4775-b395-af13a7d7647b
+„	java:S125½"<This block of commented-out lines of code should be removed.(îÓÍşşÿÿÿÿ8õÃ¯ÈÆ2J$82cbf92f-4b40-46fb-ac23-82aa31259bf7

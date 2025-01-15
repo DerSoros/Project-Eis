@@ -1,0 +1,15 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ª¯Õ¹øÿÿÿÿ8½’ºÿ1J$74213fc7-36e4-45a6-b4dd-db450fc2618f
+¬
+java:S1488I"dImmediately return this expression instead of assigning it to the temporary variable "haveResource".(’Êº”úÿÿÿÿ8½’ºÿ1J$6f345da4-9ffd-4285-80ae-3c846bb72115
+Ä
+java:S1186N"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(æ”„Ñ8°¤ºÿ1J$38686002-a0d0-4ad9-aea6-62d9541c9c13
+}
+java:S1161":Add the "@Override" annotation above this method signature(Ö×õÄ8³¤ºÿ1J$257a14e4-02f1-4536-84dd-c1a119b6940d
+i
+java:S1125%"'Remove the unnecessary boolean literal.(§ª¶08³¤ºÿ1J$62ccdd25-ff35-4aa9-8bfa-70b9a96b5865
+i
+java:S1125%"'Remove the unnecessary boolean literal.(§ª¶08³¤ºÿ1J$2f8caa15-f7ef-4814-b707-9abc750bbade
+i	java:S131.""Add a default case to this switch.(Æóõµıÿÿÿÿ8´¤ºÿ1J$6e845375-731a-45c1-bd69-f2c638aac32e
+s
+java:S1172H"+Remove this unused method parameter "user".(§ÓÎªşÿÿÿÿ8´¤ºÿ1J$ca53c8ae-02b5-423b-90d7-656a59683a3c

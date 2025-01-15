@@ -1,0 +1,30 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Äàî‡8éÕÜÿ1J$cd6100f9-9f4d-45b9-8cdb-bcb4e87dae14
+Ÿ
+java:S1488'"\Immediately return this expression instead of assigning it to the temporary variable "tile".(½ª¨Ó8éÕÜÿ1J$157e98f6-5a37-48f5-a86a-b9b64b47d5cc
+¥
+java:S1488,"]Immediately return this expression instead of assigning it to the temporary variable "color".(‰³‰®ûÿÿÿÿ8éÕÜÿ1J$3a489649-b172-4b26-8ffb-4bba34a5a8d0
+Ÿ
+java:S14880"\Immediately return this expression instead of assigning it to the temporary variable "size".(¸àĞ¼8éÕÜÿ1J$f62d7600-2fa6-4694-b65d-5931482c3147
+¥
+java:S14884"]Immediately return this expression instead of assigning it to the temporary variable "speed".(’­öŸÿÿÿÿÿ8éÕÜÿ1J$b8f6e876-7aee-49f2-acd5-0c0d2de59d3d
+§
+java:S14888"_Immediately return this expression instead of assigning it to the temporary variable "maxLife".(ŞŒ˜úÿÿÿÿ8éÕÜÿ1J$b8654da9-4634-4b3c-83c6-2fc4a2206e6a
+t
+java:S2387
+"1"gp" is the name of a field in "InteractiveTile".(ğû˜ƒ8ÑçÜÿ1J$ac63ed4f-ca2a-4105-8e62-c3004aa18a13
+}
+java:S1161":Add the "@Override" annotation above this method signature(ñè¿º8ÕçÜÿ1J$f6b70237-4854-4d37-b441-a897887304a1
+‚
+java:S1161!":Add the "@Override" annotation above this method signature(Ü»“öûÿÿÿÿ8ÕçÜÿ1J$f566f939-6e24-4eae-97e8-acfe6a9a946a
+ƒ	java:S125""<This block of commented-out lines of code should be removed.(Á®Å¹ıÿÿÿÿ8ªÄ½€2J$f9a387f5-aa6b-4d5f-8756-05357060561a
+}
+java:S1161&":Add the "@Override" annotation above this method signature(¾ÎòŠ8ÕçÜÿ1J$2cd6e55d-22af-4ca9-a8e7-216badfaf944
+‚
+java:S1161+":Add the "@Override" annotation above this method signature(×ö«¦ıÿÿÿÿ8ïİ’†€2J$e05f2583-a22b-4298-86bd-183067f9bf12
+}
+java:S1161/":Add the "@Override" annotation above this method signature(³Ïîó8ñİ’†€2J$eaeb5830-14ff-44aa-8f4a-f2ce60339775
+‚
+java:S11613":Add the "@Override" annotation above this method signature(ğÄû¦şÿÿÿÿ8ñİ’†€2J$6ede208b-a9d2-49af-a66c-1f17bc1316c9
+‚
+java:S11617":Add the "@Override" annotation above this method signature(„½æìûÿÿÿÿ8òİ’†€2J$d175424a-6062-42c9-bfbd-82e805d42ab9

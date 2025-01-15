@@ -1,0 +1,227 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ª¯Õ¹øÿÿÿÿ8º¾Œ¤Æ2J$7c9f46d0-b74e-461f-880b-2e750c5ee2b2
+’
+java:S1104"OMake up1 a static final constant or non-public and provide accessors if needed.(©ø—8Í¾Œ¤Æ2J$6a82ee29-b3a0-4293-b08f-8ce86405494d
+’
+java:S1104"OMake up2 a static final constant or non-public and provide accessors if needed.(©ø—8Í¾Œ¤Æ2J$1065e66f-7715-412e-a152-4cce4966b146
+”
+java:S1104"QMake down1 a static final constant or non-public and provide accessors if needed.(©ø—8Í¾Œ¤Æ2J$52a008c1-26d4-4b93-aeeb-95f380550640
+”
+java:S1104"QMake down2 a static final constant or non-public and provide accessors if needed.(©ø—8Í¾Œ¤Æ2J$217cd43a-0358-4490-931c-36cab0d9e60a
+”
+java:S1104"QMake left1 a static final constant or non-public and provide accessors if needed.(©ø—8Ğ¾Œ¤Æ2J$e7f934cd-8f5f-4547-af98-32144b39f99b
+”
+java:S1104"QMake left2 a static final constant or non-public and provide accessors if needed.(©ø—8Ğ¾Œ¤Æ2J$a727143d-cafb-4063-b0fc-2ca0eb99986f
+•
+java:S1104"RMake right1 a static final constant or non-public and provide accessors if needed.(©ø—8Ğ¾Œ¤Æ2J$ee601769-4972-41f9-8843-1a9cdb5b60c0
+•
+java:S1104"RMake right2 a static final constant or non-public and provide accessors if needed.(©ø—8œé£ÇÆ2J$f82f837d-7026-4bb2-b150-4cb23a70bd0c
+•
+java:S1104"RMake title1 a static final constant or non-public and provide accessors if needed.(©ø—8Ğ¾Œ¤Æ2J$384e3369-4882-4384-ae95-3af627fd142e
+
+java:S1104"UMake attackUp1 a static final constant or non-public and provide accessors if needed.(ËÌÙ‘üÿÿÿÿ8Ğ¾Œ¤Æ2J$6107bdc9-1d7a-4861-8c4b-a42eeb04a610
+
+java:S1104"UMake attackUp2 a static final constant or non-public and provide accessors if needed.(ËÌÙ‘üÿÿÿÿ8Ğ¾Œ¤Æ2J$ac492eaa-60e0-48e2-bdec-9becb14ca2d2
+
+java:S1104"UMake attackUp3 a static final constant or non-public and provide accessors if needed.(ËÌÙ‘üÿÿÿÿ8­¿¡ÇÆ2J$1e0f609c-56b9-49b0-8add-41e07691c389
+
+java:S1104"UMake attackUp4 a static final constant or non-public and provide accessors if needed.(ËÌÙ‘üÿÿÿÿ8­¿¡ÇÆ2J$d92c0ee9-e424-4de8-9af1-8fc7660e23ef
+Ÿ
+java:S1104"WMake attackDown1 a static final constant or non-public and provide accessors if needed.(ËÌÙ‘üÿÿÿÿ8Ğ¾Œ¤Æ2J$b6712d39-f163-4851-8bc0-2a8f5e2fe1ca
+Ÿ
+java:S1104"WMake attackDown2 a static final constant or non-public and provide accessors if needed.(ËÌÙ‘üÿÿÿÿ8Ğ¾Œ¤Æ2J$e440f66c-383c-4557-8583-87a93ffac570
+Ÿ
+java:S1104"WMake attackDown3 a static final constant or non-public and provide accessors if needed.(ËÌÙ‘üÿÿÿÿ8è”¢ÇÆ2J$1f43e54b-e611-4242-a3f7-540a0e0f5398
+Ÿ
+java:S1104"WMake attackDown4 a static final constant or non-public and provide accessors if needed.(ËÌÙ‘üÿÿÿÿ8è”¢ÇÆ2J$85e5f5c0-e3a8-43eb-af14-0417583b2f1d
+Ÿ
+java:S1104"WMake attackLeft1 a static final constant or non-public and provide accessors if needed.(³ä¶¾şÿÿÿÿ8Ğ¾Œ¤Æ2J$790179df-50d0-4f70-8e3e-d29852889e0f
+Ÿ
+java:S1104"WMake attackLeft2 a static final constant or non-public and provide accessors if needed.(³ä¶¾şÿÿÿÿ8Ğ¾Œ¤Æ2J$bcdee0a1-3959-4012-b106-b8e51acf532d
+Ÿ
+java:S1104"WMake attackLeft3 a static final constant or non-public and provide accessors if needed.(³ä¶¾şÿÿÿÿ8ıà¢ÇÆ2J$ab8d29bf-ed11-4d10-ac6d-217eef7e6e11
+Ÿ
+java:S1104"WMake attackLeft4 a static final constant or non-public and provide accessors if needed.(³ä¶¾şÿÿÿÿ8ıà¢ÇÆ2J$49b3ba04-c5be-4d11-8e6b-736b6b84c86a
+ 
+java:S1104"XMake attackRight1 a static final constant or non-public and provide accessors if needed.(³ä¶¾şÿÿÿÿ8Ğ¾Œ¤Æ2J$6cb3d274-aac1-4d0c-ae7d-423562882931
+ 
+java:S1104"XMake attackRight2 a static final constant or non-public and provide accessors if needed.(³ä¶¾şÿÿÿÿ8Ğ¾Œ¤Æ2J$de1b1517-43a0-4fc8-affa-dceae8c2e73e
+ 
+java:S1104"XMake attackRight3 a static final constant or non-public and provide accessors if needed.(³ä¶¾şÿÿÿÿ8Ğ¾Œ¤Æ2J$b9a2c166-7c39-42d5-b228-75bfd7a4a281
+ 
+java:S1104"XMake attackRight4 a static final constant or non-public and provide accessors if needed.(³ä¶¾şÿÿÿÿ8Ğ¾Œ¤Æ2J$b6a60ea3-099a-43b3-bb86-48a3e01122dd
+”
+java:S1104"QMake image a static final constant or non-public and provide accessors if needed.(¼ÌÛ®8Ğ¾Œ¤Æ2J$ee0fdd03-de60-46c1-ba24-57564ad82047
+•
+java:S1104"RMake image2 a static final constant or non-public and provide accessors if needed.(¼ÌÛ®8Ğ¾Œ¤Æ2J$b7dd2de7-c3e0-4e47-bc39-db5f8530b844
+•
+java:S1104"RMake image3 a static final constant or non-public and provide accessors if needed.(¼ÌÛ®8Ñ¾Œ¤Æ2J$636bf7be-33b9-4f9b-beec-20f5fb207148
+
+java:S1104"UMake solidArea a static final constant or non-public and provide accessors if needed.(Ğé‘øÿÿÿÿ8Ñ¾Œ¤Æ2J$5026015a-7cc1-4ca7-9807-34dc7cb6569f
+™
+java:S1104"VMake attackArea a static final constant or non-public and provide accessors if needed.(ÍÇ­ë8Ñ¾Œ¤Æ2J$91457953-b9d0-4e8b-bbbe-df894a423249
+ 
+java:S1104"]Make solidAreaDefaultX a static final constant or non-public and provide accessors if needed.(š¶Ö±8Ñ¾Œ¤Æ2J$0cdc7e1d-054b-42ce-87f2-8ffa2868aa78
+ 
+java:S1104"]Make solidAreaDefaultY a static final constant or non-public and provide accessors if needed.(š¶Ö±8Ñ¾Œ¤Æ2J$d8277ccd-d421-45f3-8f7f-fb38dda9d56b
+Ÿ
+java:S1104"WMake collisionOn a static final constant or non-public and provide accessors if needed.(óê½ıÿÿÿÿ8Ñ¾Œ¤Æ2J$6ba8613f-6a45-4bd3-a4e3-a3d96659da5f
+š
+java:S1104"RMake worldX a static final constant or non-public and provide accessors if needed.(ª‡ãìıÿÿÿÿ8Ò¾Œ¤Æ2J$6272eb14-93ca-4ce7-b6e5-37e72ae5a21e
+š
+java:S1104"RMake worldY a static final constant or non-public and provide accessors if needed.(ª‡ãìıÿÿÿÿ8Ò¾Œ¤Æ2J$77500292-cb3c-4a2e-a66e-2c1f681b3058
+
+java:S1104"UMake direction a static final constant or non-public and provide accessors if needed.(¬À¢Ûùÿÿÿÿ8Ò¾Œ¤Æ2J$43d0d0e5-bac8-450a-8c94-a5769cb719b9
+˜
+java:S1104"UMake spriteNum a static final constant or non-public and provide accessors if needed.(‹ö¸ù8ä¾Œ¤Æ2J$5a5c5a37-2f94-42f8-a746-41671a39aa25
+˜
+java:S1104"UMake collision a static final constant or non-public and provide accessors if needed.(ªò·À8ä¾Œ¤Æ2J$08e1b083-942f-4a3e-af4f-4d7b967b8eca
+™
+java:S1104"VMake invincible a static final constant or non-public and provide accessors if needed.(¾ÜÜ8ä¾Œ¤Æ2J$8a2768e7-78ff-452e-9d38-e313d8a5f6b0
+™
+java:S1104!"QMake alive a static final constant or non-public and provide accessors if needed.(Ş›ğòıÿÿÿÿ8ä¾Œ¤Æ2J$4f112d76-9bbc-4a1e-9c1b-c64d5a8e3d48
+™
+java:S1104""QMake dying a static final constant or non-public and provide accessors if needed.(²Éíúÿÿÿÿ8ä¾Œ¤Æ2J$68f471ac-bb6a-4b9e-8f3a-4cc2c1698a1f
+œ
+java:S1104&"YMake spriteCounter a static final constant or non-public and provide accessors if needed.(¤À8ä¾Œ¤Æ2J$27d9d23e-8480-4f3e-b05e-223d31cd175b
+¥
+java:S1104'"]Make actionLockCounter a static final constant or non-public and provide accessors if needed.(ÄóĞœøÿÿÿÿ8ä¾Œ¤Æ2J$f376cf54-2eee-496c-9f07-886b2246f17b
+ 
+java:S1104("]Make invincibleCounter a static final constant or non-public and provide accessors if needed.(‘èÕú8ä¾Œ¤Æ2J$fa1bb30e-4250-4728-bf20-a1f3bf1a7389
+¨
+java:S1104)"`Make shotAvailableCounter a static final constant or non-public and provide accessors if needed.(Ãáãáøÿÿÿÿ8ä¾Œ¤Æ2J$39b9f745-59a8-4ef9-8c34-3da9ad3e9c6e
+“
+java:S1104."PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾8å¾Œ¤Æ2J$64a89387-3412-4597-a143-022075ba17ea
+™
+java:S1104/"QMake speed a static final constant or non-public and provide accessors if needed.(¥ğ‡ğøÿÿÿÿ8å¾Œ¤Æ2J$67c3047f-3b80-4e00-ab04-b3331bcd28d1
+›
+java:S11040"SMake maxLife a static final constant or non-public and provide accessors if needed.(Â—Ø«ùÿÿÿÿ8å¾Œ¤Æ2J$db63aaaa-0a04-4290-8899-49a3aa4b086f
+˜
+java:S11041"PMake life a static final constant or non-public and provide accessors if needed.( ˆ™şÿÿÿÿ8¡¿Œ¤Æ2J$bfc2ba55-149f-4f30-9cf0-06d1b71974df
+–
+java:S11042"SMake maxMana a static final constant or non-public and provide accessors if needed.(±¤—Ô8«¿Œ¤Æ2J$f4925b2f-0067-44db-8369-c772903c1f11
+“
+java:S11043"PMake mana a static final constant or non-public and provide accessors if needed.(£ÈÏ8«¿Œ¤Æ2J$7fb7a5cb-8552-4f25-8ad7-542b799c0387
+”
+java:S11044"QMake level a static final constant or non-public and provide accessors if needed.(Ì–íï8«¿Œ¤Æ2J$092c097b-16ea-447f-9a9e-d6ff336050d3
+—
+java:S11045"TMake strength a static final constant or non-public and provide accessors if needed.( ĞÚ8«¿Œ¤Æ2J$40daa962-933b-4661-b8f3-fa226f53d95c
+˜
+java:S11046"UMake dexterity a static final constant or non-public and provide accessors if needed.(Ç—²8«¿Œ¤Æ2J$b2c52e0d-7e30-4a36-9605-1386017c9993
+•
+java:S11047"RMake attack a static final constant or non-public and provide accessors if needed.(ï¡²÷8«¿Œ¤Æ2J$6e47812f-fabe-4311-8209-bcb79f13973e
+›
+java:S11048"SMake defense a static final constant or non-public and provide accessors if needed.(«ƒÜëıÿÿÿÿ8«¿Œ¤Æ2J$31410f2d-5b99-40ae-b49b-6ef0480c0a95
+’
+java:S11049"OMake exp a static final constant or non-public and provide accessors if needed.(ÃÍıû8«¿Œ¤Æ2J$52c101a0-0fa3-4be1-b3fc-937efd3df126
+ 
+java:S1104:"XMake nextLevelExp a static final constant or non-public and provide accessors if needed.(šÂ¥Õøÿÿÿÿ8«¿Œ¤Æ2J$a9e6a268-cf37-4279-9604-a305b6e48670
+˜
+java:S1104;"PMake coin a static final constant or non-public and provide accessors if needed.(ç’í¬ùÿÿÿÿ8«¿Œ¤Æ2J$39be9c84-c51f-42be-b3d6-9846411dd76c
+œ
+java:S1104<"YMake currentWeapon a static final constant or non-public and provide accessors if needed.(û·çô8«¿Œ¤Æ2J$7da0819a-4532-4fe0-b8d5-7696b6b11506
+¡
+java:S1104="YMake currentShield a static final constant or non-public and provide accessors if needed.(™ÜÎºüÿÿÿÿ8«¿Œ¤Æ2J$585995a4-541c-4480-b6ec-c215c0a167ce
+
+java:S1104>"VMake projectile a static final constant or non-public and provide accessors if needed.(ÊºÛõûÿÿÿÿ8«¿Œ¤Æ2J$fd376fa0-2d7b-41b3-b931-745159ac9c03
+˜
+java:S1104A"UMake inventory a static final constant or non-public and provide accessors if needed.(ñıï8«¿Œ¤Æ2J$17d8967b-ed91-4dae-8da1-c355b4c43607
+™
+java:S1104C"QMake value a static final constant or non-public and provide accessors if needed.(‚¯¥ùÿÿÿÿ8¬¿Œ¤Æ2J$c99576bc-aab6-459b-836a-c17e311bc6ea
+š
+java:S1104D"WMake attackValue a static final constant or non-public and provide accessors if needed.(âÏ§ü8¬¿Œ¤Æ2J$df8f6a06-33e2-43e2-8442-dcfa3a1d0712
+ 
+java:S1104E"XMake defenseValue a static final constant or non-public and provide accessors if needed.(‹¨àşÿÿÿÿ8¬¿Œ¤Æ2J$ba2f7042-d8fa-46d0-91b2-2a664e3ec55d
+Ÿ
+java:S1104F"WMake description a static final constant or non-public and provide accessors if needed.(îË¼şÿÿÿÿ8¬¿Œ¤Æ2J$51c811f3-c49d-44b3-95e1-f95bc491cc26
+›
+java:S1104G"SMake useCost a static final constant or non-public and provide accessors if needed.(İŒâ¼şÿÿÿÿ8¬¿Œ¤Æ2J$92689a09-442f-4aa4-9c72-14d9261c5d5e
+™
+java:S1104H"QMake price a static final constant or non-public and provide accessors if needed.(ë­‡ìıÿÿÿÿ8¬¿Œ¤Æ2J$23088d87-026d-47e3-8a76-68d7e33c894b
+“
+java:S1104K"PMake type a static final constant or non-public and provide accessors if needed.(ûöå©8¬¿Œ¤Æ2J$023cebd6-e09a-4f82-84c6-6943393ab4ca
+¬
+java:S1319A"iThe type of "inventory" should be an interface such as "List" rather than the implementation "ArrayList".(ñıï8¬¿Œ¤Æ2J$b5e3c08e-0406-4559-a705-1846c4d90aae
+¦
+java:S1488€"]Immediately return this expression instead of assigning it to the temporary variable "color".(ß†Ô³øÿÿÿÿ8­¿Œ¤Æ2J$16e07635-789c-4f30-94c8-d5ab3285bf3c
+ 
+java:S1488„"\Immediately return this expression instead of assigning it to the temporary variable "size".(›ïÅê8­¿Œ¤Æ2J$d8e134be-d539-4a3f-becb-24471d7bb769
+¡
+java:S1488ˆ"]Immediately return this expression instead of assigning it to the temporary variable "speed".(Œ¤ôˆ8­¿Œ¤Æ2J$ba84bf8a-da84-4615-90fd-46fc3e61d915
+¨
+java:S1488Œ"_Immediately return this expression instead of assigning it to the temporary variable "maxLife".(Ã ¢§ÿÿÿÿÿ8­¿Œ¤Æ2J$bc73708e-435e-4950-9b5e-d8f30390ccbe
+	java:S116L"VRename this field "type_player" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ïØ¨ÿÿÿÿÿ8­¿Œ¤Æ2J$f98939ff-3481-4c2b-8fd7-3db5b8b2af49
+š	java:S116M"SRename this field "type_npc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å•Æ¸ÿÿÿÿÿ8­¿Œ¤Æ2J$a9807d57-e915-41c6-833b-5832c7bae88f
+	java:S116N"WRename this field "type_monster" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èæ–Ãüÿÿÿÿ8­¿Œ¤Æ2J$492481de-999f-42fd-a2f2-f9965482fecc
+œ	java:S116O"URename this field "type_sword" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘¼–œøÿÿÿÿ8­¿Œ¤Æ2J$df2b8dc6-610f-4196-baf3-50e183d7b7be
+š	java:S116P"SRename this field "type_axe" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËÙêôùÿÿÿÿ8®¿Œ¤Æ2J$edd81264-cb17-47e0-b8d1-c240e6fbd95c
+	java:S116Q"VRename this field "type_shield" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö÷øÊıÿÿÿÿ8®¿Œ¤Æ2J$09281a76-e156-4ba2-84aa-e44ba0bce17c
+¡	java:S116R"ZRename this field "type_consumable" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑœÑÍùÿÿÿÿ8®¿Œ¤Æ2J$ad35fda0-dc6e-4bcc-b0a1-c1b4882b9f82
+¡	java:S116S"ZRename this field "type_pickUpOnly" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯Ëîøÿÿÿÿ8®¿Œ¤Æ2J$a2fd1c07-2ad3-4ed2-9846-6135dfd3e125
+d
+java:S1170B"!Make this final field static too.(ÙƒÆÜ8®¿Œ¤Æ2J$64cefdda-c663-4c76-be7f-4bdb4384551c
+i
+java:S1170L"!Make this final field static too.(“ïØ¨ÿÿÿÿÿ8®¿Œ¤Æ2J$fc1338f8-4c0d-4009-a546-efbfdd39cd2d
+i
+java:S1170M"!Make this final field static too.(å•Æ¸ÿÿÿÿÿ8®¿Œ¤Æ2J$676409c8-a511-4db5-bd58-5389aec39f2d
+i
+java:S1170N"!Make this final field static too.(èæ–Ãüÿÿÿÿ8®¿Œ¤Æ2J$f103a50c-4b80-4361-ad71-808affa07ac5
+i
+java:S1170O"!Make this final field static too.(‘¼–œøÿÿÿÿ8®¿Œ¤Æ2J$39242794-31d7-47de-89c7-13b3cbe00f8e
+i
+java:S1170P"!Make this final field static too.(ËÙêôùÿÿÿÿ8®¿Œ¤Æ2J$37e3df93-db59-4828-a682-e3e2d668d95d
+i
+java:S1170Q"!Make this final field static too.(ö÷øÊıÿÿÿÿ8®¿Œ¤Æ2J$dab4ae45-302c-45e5-a72c-5f732222cf15
+i
+java:S1170R"!Make this final field static too.(ÑœÑÍùÿÿÿÿ8®¿Œ¤Æ2J$ac3ee39a-4f8a-48c7-95f5-3c0d90cb6627
+i
+java:S1170S"!Make this final field static too.(¯Ëîøÿÿÿÿ8®¿Œ¤Æ2J$5237b238-021b-46a6-b26e-843f412a3f63
+É
+java:S1186V"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(–„†üÿÿÿÿ8®¿Œ¤Æ2J$f93fdae4-5f30-4bf5-ae69-96edf995b9a8
+É
+java:S1186W"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(­ôŒ®ıÿÿÿÿ8®¿Œ¤Æ2J$b0d4986a-ac43-41a8-8d9d-9c68ddd0c931
+É
+java:S1186p"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(õÓ“ùùÿÿÿÿ8®¿Œ¤Æ2J$63045aa9-4656-412c-953b-4a00cf8abef0
+Ä
+java:S1186q"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ú‰êğ8®¿Œ¤Æ2J$4f90ff18-2262-4862-9a1f-e6080a71c482
+ƒ
+java:S1659"@Declare "up2" and all following declarations on a separate line.(©ø—8¯¿Œ¤Æ2J$ce69ddb2-0e31-4f24-81f7-60fa487e1dc7
+
+java:S1659"FDeclare "attackUp2" and all following declarations on a separate line.(ËÌÙ‘üÿÿÿÿ8¯¿Œ¤Æ2J$4a4c2f8a-fb35-41f2-af70-79a9397c5078
+†
+java:S1659"CDeclare "image2" and all following declarations on a separate line.(¼ÌÛ®8°¿Œ¤Æ2J$4f283250-3520-4572-898a-68b3ab9bfc2c
+r
+java:S1659"/Declare "solidAreaDefaultY" on a separate line.(š¶Ö±8°¿Œ¤Æ2J$e3697ed2-f05a-43f3-a128-4a67b6b3c47f
+l
+java:S1659"$Declare "worldY" on a separate line.(ª‡ãìıÿÿÿÿ8°¿Œ¤Æ2J$00bd9864-bed9-48ce-a2d8-b492c399d4ac
+i	java:S131a""Add a default case to this switch.(ÈÕÄ¡ùÿÿÿÿ8€ÀŒ¤Æ2J$571af7ab-57e0-4187-b1a2-9c5ec1e30952
+}
+java:S1117ˆ"9Rename "speed" which hides the field declared at line 47.(Œ¤ôˆ8€ÀŒ¤Æ2J$cef2d954-d6ac-40ba-ab5c-9748025a6776
+„
+java:S1117Œ";Rename "maxLife" which hides the field declared at line 48.(Ã ¢§ÿÿÿÿÿ8€ÀŒ¤Æ2J$0bb9f8e4-8225-4a4b-9ae8-cd01eaffa9b5
+‚
+java:S1117”"9Rename "speed" which hides the field declared at line 47.(ø±Ìüÿÿÿÿ8ÀŒ¤Æ2J$c0ebf9fc-76d1-4c97-b27f-47d94f16b481
+
+java:S1117•";Rename "maxLife" which hides the field declared at line 48.(¯Ù—¶8ÀŒ¤Æ2J$82c72cab-a8bd-4664-b6ce-a7e16f631451
+k
+java:S1125­"'Remove the unnecessary boolean literal.(şÍé·8ÀŒ¤Æ2J$ae2f4886-b0b9-4aad-8f51-9c0aea961d6a
+p
+java:S1125·"'Remove the unnecessary boolean literal.(ú‹êôøÿÿÿÿ8ÀŒ¤Æ2J$166c5817-1296-4fa2-a256-1c9d66724e7f
+j	java:S131¹""Add a default case to this switch.(Æóõµıÿÿÿÿ8ÀŒ¤Æ2J$ebd06848-1a3d-4aad-9b33-722cc68f9f02
+p
+java:S1125Í"'Remove the unnecessary boolean literal.(˜ößÿÿÿÿÿ8ÀŒ¤Æ2J$f8168926-9833-45b3-9726-8ee3410af2c5
+k
+java:S1125Û"'Remove the unnecessary boolean literal.(ûçå­8ÀŒ¤Æ2J$d8929799-ced1-4c19-9859-f32fa6ef4da9
+	java:S125İ"<This block of commented-out lines of code should be removed.(à¶÷Á8ÀŒ¤Æ2J$cdab40ad-67ff-4910-a8f7-662112ea28b9
+}
+java:S1117ì"9Rename "image" which hides the field declared at line 18.(Ê³ğô8ÀŒ¤Æ2J$87c87200-fa53-4e9d-a6bd-9a77829ade90
+j	java:S131÷""Add a default case to this switch.(Æóõµıÿÿÿÿ8ÀŒ¤Æ2J$e07ff896-8124-4f84-b483-13439ce598f3
+k
+java:S1125‹"'Remove the unnecessary boolean literal.(ßä¾8ÀŒ¤Æ2J$376da811-26bf-4695-b3c3-c4e37af0807a
+p
+java:S1125Ÿ"'Remove the unnecessary boolean literal.(˜ößÿÿÿÿÿ8ÀŒ¤Æ2J$49d00ecc-c882-4b17-a556-8dca67a23157
+p
+java:S1125¥"'Remove the unnecessary boolean literal.(ç§ğÈÿÿÿÿÿ8ÀŒ¤Æ2J$23a8f4cc-9f51-4802-9c53-ffc4c60d7644
+}
+java:S1117È"9Rename "image" which hides the field declared at line 18.(Ê³ğô8¤ÀŒ¤Æ2J$830cb6bf-d669-4e1b-b010-f1d57c643044
+~	java:S125Ô"<This block of commented-out lines of code should be removed.(©ŸòM8°ÀŒ¤Æ2J$bb1a84f5-23d5-4aa8-b4e8-a0556de344cf

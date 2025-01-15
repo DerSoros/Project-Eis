@@ -1,0 +1,24 @@
+
+”	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ç¨ÉÑûÿÿÿÿ8ÜªñŠÿ1J$d7c16e94-3232-4a92-a2ad-50d5ad5fbd52
+¥
+java:S14883"]Immediately return this expression instead of assigning it to the temporary variable "color".(ÎÇĞÇÿÿÿÿÿ8²Æ¾ÿ1J$d2844621-a5bd-4d30-9bf4-afc14a8c5636
+¤
+java:S14887"\Immediately return this expression instead of assigning it to the temporary variable "size".(·î˜šûÿÿÿÿ8²Æ¾ÿ1J$8aaebbde-4bdd-4811-aed1-5a1f2a3a7f89
+¥
+java:S1488;"]Immediately return this expression instead of assigning it to the temporary variable "speed".(’­öŸÿÿÿÿÿ8²Æ¾ÿ1J$224ada66-ad47-48fe-8310-51660486b068
+§
+java:S1488?"_Immediately return this expression instead of assigning it to the temporary variable "maxLife".(ŞŒ˜úÿÿÿÿ8²Æ¾ÿ1J$c63d7928-5e00-4cb9-811d-bf7fd5884d5e
+k
+java:S2387"("gp" is the name of a field in "Entity".(ğû˜ƒ8Ğ¼ñŠÿ1J$182d277e-7984-4a4b-93dc-6e270f73dfbd
+‚
+java:S1161'":Add the "@Override" annotation above this method signature(§ÓÎªşÿÿÿÿ8ø¤ıŠÿ1J$24a4360f-d67c-452f-91a3-88c0a8735634
+}
+java:S1161/":Add the "@Override" annotation above this method signature(æ”„Ñ8ù¤ıŠÿ1J$077aae2e-0cfe-4385-bd86-f50525fc9cf5
+‚
+java:S11612":Add the "@Override" annotation above this method signature(×ö«¦ıÿÿÿÿ8œØ¾ÿ1J$8f42a59d-ff29-443d-a94e-3cfeb9e7e867
+}
+java:S11616":Add the "@Override" annotation above this method signature(³Ïîó8Ø¾ÿ1J$1c3d57e2-5776-4145-97a5-7b5847ed5237
+‚
+java:S1161:":Add the "@Override" annotation above this method signature(ğÄû¦şÿÿÿÿ8Ø¾ÿ1J$5a6702ef-5c8d-4789-b953-a0e1d92161fa
+‚
+java:S1161>":Add the "@Override" annotation above this method signature(„½æìûÿÿÿÿ8Ø¾ÿ1J$661fbabc-7ba1-462d-8539-8b51f26349ac

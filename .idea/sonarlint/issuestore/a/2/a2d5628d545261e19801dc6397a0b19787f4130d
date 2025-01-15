@@ -1,0 +1,23 @@
+
+	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ñÌøà8Œ ƒ‹ÿ1J$7f9166e8-ca2d-406f-94f2-a7234b066958
+ 
+java:S14885"]Immediately return this expression instead of assigning it to the temporary variable "color".(¾ÄÊ8üšÂÿ1J$c74f8906-67f4-4df8-8b68-3d8f3200ac13
+¤
+java:S14889"\Immediately return this expression instead of assigning it to the temporary variable "size".(·î˜šûÿÿÿÿ8üšÂÿ1J$4091d66d-2b3d-4100-94fe-d293bb8d81a6
+¥
+java:S1488="]Immediately return this expression instead of assigning it to the temporary variable "speed".(’­öŸÿÿÿÿÿ8üšÂÿ1J$70f9fc87-023e-4150-8f63-9d8beafe722e
+§
+java:S1488A"_Immediately return this expression instead of assigning it to the temporary variable "maxLife".(ŞŒ˜úÿÿÿÿ8üšÂÿ1J$1c14d7e3-b2f0-4de1-a87c-d2e3646255a5
+k
+java:S2387"("gp" is the name of a field in "Entity".(ğû˜ƒ8 ƒ‹ÿ1J$130c6511-dde5-49d0-bae5-a785d0f9a457
+‚
+java:S11614":Add the "@Override" annotation above this method signature(×ö«¦ıÿÿÿÿ8€›Âÿ1J$7cba211d-6f7e-4856-9065-1d96fa5d62d7
+ƒ	java:S125("<This block of commented-out lines of code should be removed.(â°åêúÿÿÿÿ8Û²ƒ‹ÿ1J$7cbd8cfd-47ba-4bac-a741-5566bc70b422
+}
+java:S11618":Add the "@Override" annotation above this method signature(³Ïîó8›Âÿ1J$54e49835-9218-400f-9f7d-2c82fe5f652a
+‚
+java:S1161<":Add the "@Override" annotation above this method signature(ğÄû¦şÿÿÿÿ8›Âÿ1J$6eba5d6d-ab87-4424-87d1-6ae9373cb89f
+‚
+java:S1161@":Add the "@Override" annotation above this method signature(„½æìûÿÿÿÿ8›Âÿ1J$b6a9b0b6-0a3f-4437-a683-afa045fd2dc1
+r
+java:S1128"*Remove this unused import 'Entity.Entity'.(Ğ©¢±şÿÿÿÿ8“ ƒ‹ÿ1J$3043e278-6b9f-4b1c-95fe-c3bcf8b2a5eb
